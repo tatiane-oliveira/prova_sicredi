@@ -35,7 +35,7 @@ Classes de apoio ao teste:
 - **CustomerUtils** (classe utilizada para centralizar a ação de exclusão do customer),
 - **PropertiesReader** (classe utilizada para ler o arquivo de propriedades).
 
-## src/test/resources
+## src\test\resources
 
 Contém o arquivo de propriedades "**config.properties**" onde é permitido informar a localização do chromedriver através da propriedade **chromedriver.path**.
 
@@ -48,6 +48,6 @@ Basta acessar a pasta do projeto e executar via linha de comando de duas formas:
 * mvn surefire-report:report (gera o relatório em HTML);
 * mvn test (gera o relatório em XML).
 
-> No término da execução dos testes é gerada uma evidência na pasta **target/screenshot** com o nome do método, data, e horário da execução.
+> No término da execução dos testes é gerada uma evidência na pasta **target\screenshot** com o nome do método, data, e horário da execução.
 
-> O relatório em HTML é gerado na pasta **target/site**. Os demais na pasta **target\surefire-reports**.
+> O relatório em HTML é gerado na pasta **target\site**. Os demais na pasta **target\surefire-reports**.
