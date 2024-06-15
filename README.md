@@ -1,6 +1,6 @@
 # Prova Técnica Sicredi
 
-Solução elaborada para atender aos quesitos dos Desafios 1 e 2 da **Prova Técnica de automação de testes** proposto pelo Sicredi.
+Solução elaborada para atender aos requisitos dos Desafios 1 e 2 da **Prova Técnica de automação de testes** proposto pelo Sicredi.
 
 
 # Estrutura do Projeto
